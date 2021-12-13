@@ -6,9 +6,8 @@ profile:
 published: true
 ---
 
-Neubla Corporation was founded in 2021 to
-create the next generation of Deep Neural Network aceleration hardware.
-We are currently located in Seoul, Korea and Cambridge, UK.
+Neubla was founded in 2021 to create the next generation of Deep Neural Network
+acceleration hardware. We have offices in Seoul (Korea) and Cambridge (UK).
 
 ### Contact Info
 
