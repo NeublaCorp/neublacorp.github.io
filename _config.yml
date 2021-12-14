@@ -3,9 +3,9 @@
 title: Neubla Corporation
 #description:  #subtitle | affiliations | motto
 
-domain: k-jeon.github.io
+domain: neubla.com
 #baseurl: /k-jeon.github.io #name of GitHub repository
-url: https://k-jeon.github.io #"" #custom url to be used instead of GitHub repository
+url: www.neubla.com #"" #custom url to be used instead of GitHub repository
 email: website@neubla.com
 
 highlighter: rouge
