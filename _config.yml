@@ -1,12 +1,12 @@
 ### your site title here
 
 title: Neubla Corporation
-description: subtitle | affiliations | motto
+#description:  #subtitle | affiliations | motto
 
 domain: k-jeon.github.io
 #baseurl: /k-jeon.github.io #name of GitHub repository
 url: https://k-jeon.github.io #"" #custom url to be used instead of GitHub repository
-email: website@neubla.com #
+email: website@neubla.com
 
 highlighter: rouge
 markdown: kramdown
@@ -42,13 +42,13 @@ compress_html:
   startings: []
 
 #collection
-#collections:
+collections:
 #  projects:
 #    output: true
 #    permalink: /projects/:path/
-#  products:
-#    output: true
-#    permalink: /products/:path/
+  products:
+    output: true
+    permalink: /products/:path/
 
 sass:
   sass_dir: /assets/css/_sass
