@@ -6,8 +6,7 @@ profile:
 published: true
 ---
 
-Neubla was founded in 2021 to create the next generation of Deep Neural Network
-acceleration hardware. We have offices in Seoul (Korea) and Cambridge (UK).
+Neubla was founded in 2021 to innovate how we do computing. We have offices in Seoul (Korea) and Cambridge (UK).
 
 ### Contact Info
 
