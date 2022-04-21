@@ -6,17 +6,11 @@ profile:
 published: true
 ---
 
-Neubla was founded in 2021 to innovate how we do computing. We have offices in Seoul (Korea) and Cambridge (UK).
+Welcome to NEUBLA UK LTD!
 
 ### Contact Info
 
-* Seoul Office
-  * Address: 9th Floor, 5, Seocho-daero 77-gil, Seocho-gu, Seoul, Korea
-  * Phone: 82-2-535-0933
-* Cambridge Office
-  * TBD
+* Address: Milton Hall, Ely Road, Milton, Cambridge, United Kingdom, CB24 6WZ
+* E-mail: website@neubla.com
 
-<!--
-#We can't disclose much
-#information other than that as we are still in a stealth mode.
--->
+
