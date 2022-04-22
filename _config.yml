@@ -6,7 +6,7 @@ title: NEUBLA UK LTD
 domain: neubla.com
 #baseurl: /k-jeon.github.io #name of GitHub repository
 url: www.neubla.com #"" #custom url to be used instead of GitHub repository
-email: website@neubla.com
+email: contact@neubla.com
 
 highlighter: rouge
 markdown: kramdown
